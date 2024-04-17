@@ -1,2 +1,2 @@
 # Title
-I don't know where to put the commit message.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
